@@ -1,2 +1,0 @@
-# sharetribe-flex
-Flex marketplace
